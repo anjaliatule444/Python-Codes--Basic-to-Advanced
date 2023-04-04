@@ -1,3 +1,7 @@
+'''
+Concatenation and Addition Demo in Python
+'''
+
 print("Anja")
 print(10+2)
 print("10+2")
